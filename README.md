@@ -1,2 +1,2 @@
 # Six-Prototype
-Repository for a platformer game Six had a bunch of ideas for
+Repository for a WIP platformer game Six had a bunch of ideas for
